@@ -1,0 +1,11 @@
+.idea/*
+*/.ipynb_checkpoints/*
+
+*.pyc
+*.swp
+
+venv/*
+
+ranking/data/mslr-*
+ranking/data/expedia
+ranking/ckptdir/
